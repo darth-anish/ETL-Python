@@ -1,3 +1,6 @@
 pandas==1.5.3
 numpy==1.24.2
-pyscopg2-binary==2.9.5
+psycopg2-binary==2.9.5
+jupyter==1.0.0
+SQLAlchemy==2.0.3
+python-dotenv==0.21.1
